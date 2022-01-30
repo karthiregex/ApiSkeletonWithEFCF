@@ -1,0 +1,15 @@
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.DataLayer.deps.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.DataLayer.runtimeconfig.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.DataLayer.runtimeconfig.dev.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\bin\Release\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.csprojAssemblyReference.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.AssemblyInfoInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.AssemblyInfo.cs
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.csproj.CopyComplete
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.DataLayer\obj\Release\netcoreapp3.1\HealthCare.DataLayer.genruntimeconfig.cache

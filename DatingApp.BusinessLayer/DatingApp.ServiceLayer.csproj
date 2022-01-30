@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>DatingApp.BusinessLayer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Services\LoanAdminServices.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\DatingApp.RepositoryLayer.csproj" />
+    <ProjectReference Include="..\DatingApp.DataLayer\DatingApp.DataLayer.csproj" />
+    <ProjectReference Include="..\DatingApp.Entities\DatingApp.Entities.csproj" />
+    <ProjectReference Include="..\DatingApp.DataLayer\DatingApp.DataLayer.csproj" />
+    <ProjectReference Include="..\DatingApp.Entities\DatingApp.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

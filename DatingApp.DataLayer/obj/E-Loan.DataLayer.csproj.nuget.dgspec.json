@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
+        "projectName": "E-Loan.DataLayer",
+        "projectPath": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.DataLayer\\E-Loan.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\DhanyaSri\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DhanyaSri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+                "projectPath": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\E-Loan.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\E-Loan.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\E-Loan.Entities.csproj",
+        "projectName": "E-Loan.Entities",
+        "projectPath": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\E-Loan.Entities.csproj",
+        "packagesPath": "C:\\Users\\DhanyaSri\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Capgemini_Clean_Code\\HealthCare\\E-Loan.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DhanyaSri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

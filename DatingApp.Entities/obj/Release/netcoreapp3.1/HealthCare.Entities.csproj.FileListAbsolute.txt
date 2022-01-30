@@ -1,0 +1,9 @@
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\bin\Release\netcoreapp3.1\HealthCare.Entities.deps.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\bin\Release\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\bin\Release\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.csprojAssemblyReference.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.AssemblyInfoInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.AssemblyInfo.cs
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.Entities\obj\Release\netcoreapp3.1\HealthCare.Entities.pdb

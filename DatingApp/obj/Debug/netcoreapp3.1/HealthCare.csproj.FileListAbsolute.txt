@@ -1,0 +1,252 @@
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.exe
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cs
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache

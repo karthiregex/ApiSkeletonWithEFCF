@@ -1,0 +1,9 @@
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.deps.json
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.dll
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\bin\Debug\netcoreapp3.1\DatingApp.Entities.pdb
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.csprojAssemblyReference.cache
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.AssemblyInfoInputs.cache
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.AssemblyInfo.cs
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.csproj.CoreCompileInputs.cache
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.dll
+E:\Iiht_Projects\DatingApp\DatingApp.Entities\obj\Debug\netcoreapp3.1\DatingApp.Entities.pdb

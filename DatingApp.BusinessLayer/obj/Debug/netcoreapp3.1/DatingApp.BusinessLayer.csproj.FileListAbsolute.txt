@@ -1,0 +1,17 @@
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.deps.json
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.runtimeconfig.json
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.runtimeconfig.dev.json
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.dll
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.BusinessLayer.pdb
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.dll
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.Entities.dll
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.pdb
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\bin\Debug\netcoreapp3.1\DatingApp.Entities.pdb
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csprojAssemblyReference.cache
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.AssemblyInfoInputs.cache
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.AssemblyInfo.cs
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.csproj.CopyComplete
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.dll
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.pdb
+E:\Iiht_Projects\DatingApp\DatingApp.BusinessLayer\obj\Debug\netcoreapp3.1\DatingApp.BusinessLayer.genruntimeconfig.cache

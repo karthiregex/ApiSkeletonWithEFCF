@@ -1,0 +1,14 @@
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.deps.json
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.dll
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.pdb
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.dll
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.Entities.dll
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.DataLayer.pdb
+E:\Iiht_Projects\DatingApp\ClassLibrary1\bin\Debug\netcoreapp3.1\DatingApp.Entities.pdb
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.csprojAssemblyReference.cache
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.AssemblyInfoInputs.cache
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.AssemblyInfo.cs
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.csproj.CoreCompileInputs.cache
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.csproj.CopyComplete
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.dll
+E:\Iiht_Projects\DatingApp\ClassLibrary1\obj\Debug\netcoreapp3.1\DatingApp.RepositoryLayer.pdb

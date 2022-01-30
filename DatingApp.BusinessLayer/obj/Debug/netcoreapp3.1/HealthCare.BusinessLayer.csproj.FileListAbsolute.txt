@@ -1,0 +1,69 @@
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.deps.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.dev.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csprojAssemblyReference.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfoInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfo.cs
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CopyComplete
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\E-Loan.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.genruntimeconfig.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.deps.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.dev.json
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csprojAssemblyReference.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfoInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfo.cs
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CopyComplete
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+E:\Projects\Capgemini_Clean_Code\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.genruntimeconfig.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.deps.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.dev.json
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfo.cs
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CopyComplete
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\Uma Kumar\Desktop\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.genruntimeconfig.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.deps.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.runtimeconfig.dev.json
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.DataLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\bin\Debug\netcoreapp3.1\HealthCare.Entities.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.AssemblyInfo.cs
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.csproj.CopyComplete
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.dll
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.pdb
+C:\Users\DhanyaSri\Desktop\FIS_Training\HealthCare\HealthCare\HealthCare.BusinessLayer\obj\Debug\netcoreapp3.1\HealthCare.BusinessLayer.genruntimeconfig.cache

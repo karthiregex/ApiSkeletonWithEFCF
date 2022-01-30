@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp", "DatingApp.csproj", "{E8743CF9-C98A-4320-A7A3-AED0E101F8DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.ServiceLayer", "..\DatingApp.BusinessLayer\DatingApp.ServiceLayer.csproj", "{E915A15E-7BB9-4C6E-B45C-6A0F223A3296}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.DataLayer", "..\DatingApp.DataLayer\DatingApp.DataLayer.csproj", "{66EFF3AA-AEFD-419D-B345-A0FC2203EABC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.Entities", "..\DatingApp.Entities\DatingApp.Entities.csproj", "{C269DB1C-461F-48B0-8FAA-1A6404A728E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatingApp.Tests", "..\DatingApp.Tests\DatingApp.Tests.csproj", "{066F0C3F-9C97-44B1-BFC0-DB5F8A6BB5F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatingApp.RepositoryLayer", "..\ClassLibrary1\DatingApp.RepositoryLayer.csproj", "{B9F02B1C-BC5D-4A0A-A90D-E55EFB7C73D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8743CF9-C98A-4320-A7A3-AED0E101F8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8743CF9-C98A-4320-A7A3-AED0E101F8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8743CF9-C98A-4320-A7A3-AED0E101F8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8743CF9-C98A-4320-A7A3-AED0E101F8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E915A15E-7BB9-4C6E-B45C-6A0F223A3296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E915A15E-7BB9-4C6E-B45C-6A0F223A3296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E915A15E-7BB9-4C6E-B45C-6A0F223A3296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E915A15E-7BB9-4C6E-B45C-6A0F223A3296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66EFF3AA-AEFD-419D-B345-A0FC2203EABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66EFF3AA-AEFD-419D-B345-A0FC2203EABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66EFF3AA-AEFD-419D-B345-A0FC2203EABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66EFF3AA-AEFD-419D-B345-A0FC2203EABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C269DB1C-461F-48B0-8FAA-1A6404A728E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C269DB1C-461F-48B0-8FAA-1A6404A728E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C269DB1C-461F-48B0-8FAA-1A6404A728E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C269DB1C-461F-48B0-8FAA-1A6404A728E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066F0C3F-9C97-44B1-BFC0-DB5F8A6BB5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066F0C3F-9C97-44B1-BFC0-DB5F8A6BB5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066F0C3F-9C97-44B1-BFC0-DB5F8A6BB5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066F0C3F-9C97-44B1-BFC0-DB5F8A6BB5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F02B1C-BC5D-4A0A-A90D-E55EFB7C73D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F02B1C-BC5D-4A0A-A90D-E55EFB7C73D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F02B1C-BC5D-4A0A-A90D-E55EFB7C73D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F02B1C-BC5D-4A0A-A90D-E55EFB7C73D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5840D16E-AA0B-46A1-94B2-45628CE3212F}
+	EndGlobalSection
+EndGlobal
